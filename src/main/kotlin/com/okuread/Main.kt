@@ -18,7 +18,7 @@ import org.slf4j.LoggerFactory
 import java.awt.Dimension
 
 const val isDemo = false
-const val version = "1.4.1"
+const val version = "1.5.0"
 val loggerRoot = LoggerFactory.getLogger(org.slf4j.Logger.ROOT_LOGGER_NAME) as Logger
 
 

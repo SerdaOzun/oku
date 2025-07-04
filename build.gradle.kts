@@ -57,7 +57,7 @@ dependencies {
 }
 
 group = "com.oku"
-version = "1.4.1"
+version = "1.5.0"
 
 kotlin {
     jvmToolchain(18)
@@ -78,8 +78,8 @@ compose.desktop {
             targetFormats(TargetFormat.Dmg, TargetFormat.Msi, TargetFormat.Deb)
 
             packageName = "oku"
-            packageVersion = "1.4.1"
-            copyright = "© 2024 Serda Özün. All rights reserved."
+            packageVersion = "1.5.0"
+            copyright = "© 2025 Serda Özün. All rights reserved."
             description = "Oku"
             windows {
                 shortcut = true
